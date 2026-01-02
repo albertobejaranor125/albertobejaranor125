@@ -24,7 +24,7 @@ I am a passionate and proactive game developer with a strong academic foundation
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=albertobejaranor125&show_icons=true&locale=en&layout=compact" alt="albertobejaranor125" /></p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p>
 LinkedIn: <a href="https://linkedin.com/in/albertobejaranor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alberto-bejarano-rodríguez-769a76263" height="30" width="40" /></a>
-Email: <a href="mailto:albertobejaranor@gmail.com">albertobejaranor@gmail.com</a>  
+<p>Email: <a href="mailto:albertobejaranor@gmail.com">albertobejaranor@gmail.com</a></p>  
 </p>
