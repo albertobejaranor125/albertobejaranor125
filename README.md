@@ -26,7 +26,7 @@ I am a junior programmer with a Master’s degree in Video Game Development, mai
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a>
   <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/18133?s=280&v=4" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"> <img src="https://download.logo.wine/logo/Unreal_Engine/Unreal_Engine-Logo.wine.png" alt="unreal" width="40" height="40"/> </a>
+  <a href="https://www.unrealengine.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Unreal_Engine_Logo.svg/3840px-Unreal_Engine_Logo.svg.png" alt="unreal" width="40" height="40"/> </a>
 </p>
 
 
