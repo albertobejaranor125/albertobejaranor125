@@ -8,7 +8,7 @@
 I am a passionate and proactive game developer with a strong academic foundation in Computer Engineering and a Master’s degree focused on Video Game Development. I thrive in creative, collaborative environments and am eager to grow within a professional team. My strengths lie in gameplay programming, systems design, and rapid prototyping.
 </p>
 <p>You can explore my projects below.</p>
-
+<p>Playable builds available on my itch.io: <a href="https://albertobejaranor.itch.io/">itch.io Link</a></p>
 <h2>Featured Projects</h2>
 <ul>
   <li><b>MindFeedNees:</b> It's a serious game that helps to support depression diagnose on people with morbid obesity.</li>
